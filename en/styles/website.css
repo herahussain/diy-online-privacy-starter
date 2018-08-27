@@ -1,9 +1,12 @@
 /* page background */ body { background-color: #F1F1F1; font-size: 14px;}
 
+/* importing google font - heading */
+@import 'https://fonts.googleapis.com/css?family=Quicksand';
+
 /* heading fonts */
-h1 { font-size: 52px; font-family: "Helvetica", sans-serif; font-weight: 400;}
-h2 { font-size: 42px; font-family: "Helvetica", sans-serif; font-weight: 400;}
-h3 { font-size: 32px; font-family: "Helvetica", sans-serif; font-weight: 400;}
+h1 { font-size: 52px; font-family: "Quicksand", sans-serif; font-weight: 400;}
+h2 { font-size: 42px; font-family: "Quicksand", sans-serif; font-weight: 400;}
+h3 { font-size: 32px; font-family: "Quicksand", sans-serif; font-weight: 400;}
 
 
 /* body font */p { font-family: "Helvetica", sans-serif; font-weight: 200; font-size: 14px; }
