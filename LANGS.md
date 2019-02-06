@@ -8,4 +8,6 @@
 * [Français / French](fr/)
 * [Pусский / Russian](ru/)
 * [Italian](it/)
-* [اردو / Urdu](ur/)
+* [正體中文/ Chinese](zh/) 
+* [اردو / Urdu](ur/)                                                                                                                                 
+

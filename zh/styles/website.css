@@ -1,0 +1,28 @@
+/* page background */ body { background-color: #F1F1F1; font-size: 14px;}
+
+/* heading fonts */
+@import 'https://fonts.googleapis.com/css?family=Noto+Sans+CJK+TC';
+h1 { font-size: 52px; font-family: "Noto Sans CJK TC";}
+h2 { font-size: 42px; font-family: "Noto Sans CJK TC";}
+h3 { font-size: 32px; font-family: "Noto Sans CJK TC";}
+
+
+/* body font */p { font-family: "Noto Sans CJK TC", "Helvetica Neue", "Helvetica", sans-serif; font-weight: 200; font-size: 14px; }
+body { font-family: Helvetica, Arial, sans-serif, sans-serif; 
+       font-weight: 200; font-size: 14px;}
+
+/* table of contents */.book-summary{ background-color: #FEBB2A;}
+
+/* search bar */
+#book-search-input input, #book-search-input input:focus, #book-search-input input:hover { width: 100%; background: 0 0; border: 3px solid black; box-shadow: none; outline: 0; line-height: 22px; padding: 7px 7px; color: inherit;
+}
+
+/* side menu */
+.book-summary {font-family:  color: black; font-size: 18px; font-weight: 300;}
+
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
+
+}
+.book .book-summary, .book .book-body  {
+    font-family: , "Noto Sans CJK TC", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
