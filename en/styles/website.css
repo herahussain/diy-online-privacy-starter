@@ -12,14 +12,18 @@ h3 { font-size: 32px; font-family: "Quicksand", sans-serif; font-weight: 400;}
 /* body font */p { font-family: "Helvetica", sans-serif; font-weight: 200; font-size: 14px; }
 body { font-family: "Helvetica", sans-serif; font-weight: 200; font-size: 14px;}
 
-/* table of contents */.book-summary{ background-color: #FEBB2A;}
+/* table of contents */.book-summary{ background-color: #F2CC64;}
 
 /* search bar */
 #book-search-input input, #book-search-input input:focus, #book-search-input input:hover { width: 100%; background: 0 0; border: 3px solid black; box-shadow: none; outline: 0; line-height: 22px; padding: 7px 7px; color: inherit;
 }
+/* search bar */ 
+#book-search-input input, #book-search-input input:focus, #book-search-input input:hover { width: 100%; background: 0 0; border: 3px solid black; box-shadow: none; outline: 0; line-height: 22px; padding: 7px 7px; color: inherit; 
+}
+
 
 /* side menu */
-.book-summary {font-family:  color: black; font-size: 18px; font-weight: 300;}
+.book-summary {font-family: color: #000000; font-size: 18px; font-weight: 400;}
 
 .book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
 }
